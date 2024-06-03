@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# k3s-manager
-=======
 ## Prerequisites
 
 Ensure you have the following prerequisites on your master and worker nodes:
@@ -62,4 +59,3 @@ The API response includes the NodePort assigned to the service. Access your depl
 ```
 http://<node-ip>:<NodePort>
 ```
->>>>>>> r1remote/main
